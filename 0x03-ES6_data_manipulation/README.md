@@ -1,6 +1,6 @@
 # 0x03-ES6_data_manipulation
 
-:open_file_folder: Specialization - Back-end JavaScript  
+:open_file_folder: Specialization - Backend( JavaScript )  
 :copyright: **[ALX - Software Engineering Program](https://www.alxafrica.com/)**  
 :bookmark: filter | javascript | map | reduce | set | weak link
 
