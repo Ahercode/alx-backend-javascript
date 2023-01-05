@@ -1,8 +1,6 @@
 # 0x04. Typescript
 
-## Tasks
-
----
+# Tasks
 
 + [x] [0. Creating an interface for a student](./task_0/js/main.ts)
 
