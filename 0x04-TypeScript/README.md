@@ -1,8 +1,6 @@
 # 0x04. Typescript
 
-## Description
-
-TypeScript is a super set of JavaScript that adds optional static typing to the language. It is not a new programming language, but rather an extension of JavaScript that can be used in any JavaScript codebase.
+## Tasks
 
 ---
 
@@ -140,8 +138,3 @@ Write a function named teachClass:
 
 * Create a directory task_5 and copy these configuration files into the root of task_5: package.json, tsconfig.json, webpack.config.js
 
----
-
-## Author
-
-[**Lawrence Adams**](./https://github.com/theclubfoot)
